@@ -1,0 +1,217 @@
+ITEM,POPULATION TYPE,OCCURRENCES,POPULATION COUNT,PREVALENCE RATE,PREVALENCE PERCENTAGE
+Otitis Media,LIVING,146,200,0.73,73.0
+Viral Sinusitis (Disorder),LIVING,171,200,0.855,85.5
+Acute Viral Pharyngitis (Disorder),LIVING,144,200,0.72,72.0
+Laceration Of Foot,LIVING,20,200,0.1,10.0
+Acute Bronchitis (Disorder),LIVING,153,200,0.765,76.5
+Streptococcal Sore Throat (Disorder),LIVING,104,200,0.52,52.0
+Laceration Of Hand,LIVING,21,200,0.105,10.5
+Laceration Of Forearm,LIVING,17,200,0.085,8.5
+Escherichia Coli Urinary Tract Infection,LIVING,17,200,0.085,8.5
+Normal Pregnancy,LIVING,62,200,0.31,31.0
+Preeclampsia,LIVING,4,200,0.02,2.0
+Whiplash Injury To Neck,LIVING,29,200,0.145,14.5
+Impacted Molars,LIVING,4,200,0.02,2.0
+Sprain Of Wrist,LIVING,25,200,0.125,12.5
+Sprain Of Ankle,LIVING,74,200,0.37,37.0
+Concussion With No Loss Of Consciousness,LIVING,36,200,0.18,18.0
+Prediabetes,LIVING,47,200,0.235,23.5
+Diabetes,LIVING,7,200,0.035,3.5
+Diabetic Renal Disease (Disorder),LIVING,2,200,0.01,1.0
+Microalbuminuria Due To Type 2 Diabetes Mellitus (Disorder),LIVING,0,200,0.0,0.0
+Diabetic Retinopathy Associated With Type Ii Diabetes Mellitus (Disorder),LIVING,3,200,0.015,1.5
+Nonproliferative Diabetic Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,1,200,0.005,0.5
+Neuropathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,1,200,0.005,0.5
+Pulmonary Emphysema (Disorder),LIVING,3,200,0.015,1.5
+Facial Laceration,LIVING,22,200,0.11,11.0
+Fracture Of Forearm,LIVING,20,200,0.1,10.0
+Fracture Of Clavicle,LIVING,19,200,0.095,9.5
+Chronic Intractable Migraine Without Aura,LIVING,2,200,0.01,1.0
+First Degree Burn,LIVING,16,200,0.08,8.0
+Polyp Of Colon,LIVING,15,200,0.075,7.5
+Allergy To Peanuts,LIVING,8,200,0.04,4.0
+Allergy To Fish,LIVING,9,200,0.045,4.5
+Allergy To Wheat,LIVING,2,200,0.01,1.0
+Allergy To Eggs,LIVING,5,200,0.025,2.5
+Allergy To Tree Pollen,LIVING,15,200,0.075,7.5
+Allergy To Grass Pollen,LIVING,15,200,0.075,7.5
+Dander (Animal) Allergy,LIVING,19,200,0.095,9.5
+House Dust Mite Allergy,LIVING,15,200,0.075,7.5
+Allergy To Mould,LIVING,18,200,0.09,9.0
+Allergy To Bee Venom,LIVING,6,200,0.03,3.0
+Childhood Asthma,LIVING,8,200,0.04,4.0
+Asthma,LIVING,5,200,0.025,2.5
+Laceration Of Thigh,LIVING,24,200,0.12,12.0
+Fracture Subluxation Of Wrist,LIVING,24,200,0.12,12.0
+Child Attention Deficit Disorder,LIVING,16,200,0.08,8.0
+Fracture Of Ankle,LIVING,13,200,0.065,6.5
+Hypertension,LIVING,54,200,0.27,27.0
+Appendicitis,LIVING,10,200,0.05,5.0
+History Of Appendectomy,LIVING,10,200,0.05,5.0
+Coronary Heart Disease,LIVING,10,200,0.05,5.0
+Injury Of Tendon Of The Rotator Cuff Of Shoulder,LIVING,13,200,0.065,6.5
+Myocardial Infarction,LIVING,2,200,0.01,1.0
+History Of Myocardial Infarction,LIVING,2,200,0.01,1.0
+Miscarriage In First Trimester,LIVING,15,200,0.075,7.5
+Fetus With Chromosomal Abnormality,LIVING,14,200,0.07,7.0
+Allergy To Dairy Product,LIVING,7,200,0.035,3.5
+Tear Of Meniscus Of Knee,LIVING,4,200,0.02,2.0
+Concussion With Loss Of Consciousness,LIVING,18,200,0.09,9.0
+Rupture Of Patellar Tendon,LIVING,5,200,0.025,2.5
+Atopic Dermatitis,LIVING,8,200,0.04,4.0
+Acute Bacterial Sinusitis (Disorder),LIVING,27,200,0.135,13.5
+Chronic Sinusitis (Disorder),LIVING,33,200,0.165,16.5
+Alzheimer's Disease (Disorder),LIVING,3,200,0.015,1.5
+Shellfish Allergy,LIVING,8,200,0.04,4.0
+Latex Allergy,LIVING,6,200,0.03,3.0
+Seasonal Allergic Rhinitis,LIVING,5,200,0.025,2.5
+Antepartum Eclampsia,LIVING,12,200,0.06,6.0
+Chronic Pain,LIVING,2,200,0.01,1.0
+Sinusitis (Disorder),LIVING,43,200,0.215,21.5
+Closed Fracture Of Hip,LIVING,6,200,0.03,3.0
+Recurrent Urinary Tract Infection,LIVING,2,200,0.01,1.0
+Miscarriage In Second Trimester,LIVING,5,200,0.025,2.5
+Osteoarthritis Of Knee,LIVING,4,200,0.02,2.0
+Second Degree Burn,LIVING,12,200,0.06,6.0
+Stroke,LIVING,5,200,0.025,2.5
+Acute Allergic Reaction,LIVING,7,200,0.035,3.5
+Injury Of Medial Collateral Ligament Of Knee,LIVING,6,200,0.03,3.0
+Cardiac Arrest,LIVING,7,200,0.035,3.5
+History Of Cardiac Arrest,LIVING,7,200,0.035,3.5
+Allergy To Soya,LIVING,3,200,0.015,1.5
+Allergy To Nut,LIVING,4,200,0.02,2.0
+Perennial Allergic Rhinitis,LIVING,6,200,0.03,3.0
+Tubal Pregnancy,LIVING,2,200,0.01,1.0
+Complication Occuring During Pregnancy,LIVING,0,200,0.0,0.0
+Cystitis,LIVING,19,200,0.095,9.5
+Localized Primary Osteoarthritis Of The Hand,LIVING,1,200,0.005,0.5
+Osteoporosis (Disorder),LIVING,8,200,0.04,4.0
+Pathological Fracture Due To Osteoporosis (Disorder),LIVING,2,200,0.01,1.0
+Primary Malignant Neoplasm Of Colon,LIVING,2,200,0.01,1.0
+Contact Dermatitis,LIVING,5,200,0.025,2.5
+Chronic Obstructive Bronchitis (Disorder),LIVING,1,200,0.005,0.5
+Bullet Wound,LIVING,1,200,0.005,0.5
+Blighted Ovum,LIVING,2,200,0.01,1.0
+Osteoarthritis Of Hip,LIVING,3,200,0.015,1.5
+Concussion Injury Of Brain,LIVING,2,200,0.01,1.0
+Fracture Of Rib,LIVING,11,200,0.055,5.5
+Suspected Lung Cancer (Situation),LIVING,0,200,0.0,0.0
+Non Small Cell Lung Cancer (Disorder),LIVING,0,200,0.0,0.0
+Non Small Cell Carcinoma Of Lung Tnm Stage 4 (Disorder),LIVING,0,200,0.0,0.0
+Familial Alzheimer's Disease Of Early Onset (Disorder),LIVING,0,200,0.0,0.0
+Pneumonia,LIVING,0,200,0.0,0.0
+Small Cell Carcinoma Of Lung (Disorder),LIVING,0,200,0.0,0.0
+Primary Small Cell Malignant Neoplasm Of Lung Tnm Stage 4 (Disorder),LIVING,0,200,0.0,0.0
+Recurrent Rectal Polyp,LIVING,1,200,0.005,0.5
+Overlapping Malignant Neoplasm Of Colon,LIVING,1,200,0.005,0.5
+Rheumatoid Arthritis,LIVING,2,200,0.01,1.0
+Third Degree Burn,LIVING,1,200,0.005,0.5
+Perennial Allergic Rhinitis With Seasonal Variation,LIVING,3,200,0.015,1.5
+Congenital Uterine Anomaly,LIVING,2,200,0.01,1.0
+Malignant Tumor Of Colon,LIVING,1,200,0.005,0.5
+Non Small Cell Carcinoma Of Lung Tnm Stage 3 (Disorder),LIVING,0,200,0.0,0.0
+Rupture Of Appendix,LIVING,1,200,0.005,0.5
+Gout,LIVING,0,200,0.0,0.0
+Fracture Of Vertebral Column Without Spinal Cord Injury,LIVING,0,200,0.0,0.0
+Injury Of Anterior Cruciate Ligament,LIVING,4,200,0.02,2.0
+Protracted Diarrhea,LIVING,0,200,0.0,0.0
+Bleeding From Anus,LIVING,0,200,0.0,0.0
+Non Small Cell Carcinoma Of Lung Tnm Stage 2 (Disorder),LIVING,0,200,0.0,0.0
+Primary Small Cell Malignant Neoplasm Of Lung Tnm Stage 3 (Disorder),LIVING,0,200,0.0,0.0
+History Of Amputation Of Foot (Situation),LIVING,0,200,0.0,0.0
+Macular Edema And Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,1,200,0.005,0.5
+Amoxicillin 200 Mg Oral Tablet,LIVING,63,200,0.315,31.5
+Ibuprofen 100 Mg Oral Tablet,LIVING,66,200,0.33,33.0
+Acetaminophen 160 Mg,LIVING,141,200,0.705,70.5
+1 Ml Depo Provera 150 Mg/Ml Injection,LIVING,9,200,0.045,4.5
+Penicillin V Potassium 250 Mg,LIVING,76,200,0.38,38.0
+Penicillin G 375 Mg/Ml Injectable Solution,LIVING,34,200,0.17,17.0
+Aspirin 81 Mg Oral Tablet,LIVING,66,200,0.33,33.0
+Doxycycline Monohydrate 100 Mg Oral Tablet,LIVING,6,200,0.03,3.0
+Nitrofurantoin 5 Mg/Ml [Furadantin],LIVING,31,200,0.155,15.5
+Phenazopyridine Hydrochloride 100 Mg [Pyridium],LIVING,31,200,0.155,15.5
+ Amoxicillin 250 Mg / Clavulanate 125 Mg [Augmentin],LIVING,103,200,0.515,51.5
+Acetaminophen 325 Mg Oral Tablet,LIVING,82,200,0.41,41.0
+Acetaminophen 300 Mg / Hydrocodone Bitartrate 5 Mg [Vicodin],LIVING,4,200,0.02,2.0
+Dextromethorphan Hydrobromide 1 Mg/Ml,LIVING,69,200,0.345,34.5
+Naproxen Sodium 220 Mg Oral Tablet,LIVING,41,200,0.205,20.5
+Ibuprofen 200 Mg Oral Tablet,LIVING,55,200,0.275,27.5
+Insulin Human Isophane 70 Unt/Ml / Regular Insulin Human 30 Unt/Ml Injectable Suspension [Humulin],LIVING,2,200,0.01,1.0
+Insulin Lispro 100 Unt/Ml Injectable Solution [Humalog],LIVING,0,200,0.0,0.0
+Penicillin V Potassium 500 Mg,LIVING,39,200,0.195,19.5
+Fluticasone Propionate 0.25 Mg/Actuat / Salmeterol 0.05 Mg/Actuat [Advair],LIVING,4,200,0.02,2.0
+Acetaminophen 160 Mg Oral Tablet,LIVING,116,200,0.58,58.0
+Acetaminophen 325 Mg / Hydrocodone Bitartrate 7.5 Mg Oral Tablet,LIVING,13,200,0.065,6.5
+Acetaminophen 325 Mg / Oxycodone Hydrochloride 5 Mg [Percocet],LIVING,2,200,0.01,1.0
+120 Actuat Fluticasone Propionate 0.044 Mg/Actuat Metered Dose Inhaler,LIVING,8,200,0.04,4.0
+200 Actuat Albuterol 0.09 Mg/Actuat Metered Dose Inhaler,LIVING,8,200,0.04,4.0
+Ampicillin 100 Mg/Ml Injectable Solution,LIVING,19,200,0.095,9.5
+Acetaminophen 325 Mg / Oxycodone Hydrochloride 5 Mg Oral Tablet,LIVING,21,200,0.105,10.5
+Meperidine Hydrochloride 50 Mg Oral Tablet,LIVING,11,200,0.055,5.5
+24 Hr Metformin Hydrochloride 500 Mg Extended Release Oral Tablet,LIVING,6,200,0.03,3.0
+3 Ml Liraglutide 6 Mg/Ml Pen Injector,LIVING,1,200,0.005,0.5
+Simvastatin,LIVING,10,200,0.05,5.0
+Amlodipine,LIVING,10,200,0.05,5.0
+Nitroglycerin,LIVING,10,200,0.05,5.0
+Clopidogrel,LIVING,14,200,0.07,7.0
+Atorvastatin,LIVING,2,200,0.01,1.0
+Captopril,LIVING,2,200,0.01,1.0
+Norinyl 1+50 28 Day Pack,LIVING,19,200,0.095,9.5
+Ortho Tri Cyclen 28 Day Pack,LIVING,14,200,0.07,7.0
+Fexofenadine Hydrochloride 30 Mg Oral Tablet,LIVING,7,200,0.035,3.5
+0.3 Ml Epinephrine 0.5 Mg/Ml Auto Injector,LIVING,16,200,0.08,8.0
+Donepezil Hydrochloride 10 Mg [Aricept],LIVING,0,200,0.0,0.0
+Donepezil Hydrochloride 23 Mg [Aricept],LIVING,0,200,0.0,0.0
+Cefuroxime 250 Mg Oral Tablet,LIVING,27,200,0.135,13.5
+Diphenhydramine Hydrochloride 25 Mg Oral Tablet,LIVING,5,200,0.025,2.5
+Methylphenidate Hydrochloride 20 Mg [Ritalin],LIVING,3,200,0.015,1.5
+Estrostep Fe 28 Day Pack,LIVING,6,200,0.03,3.0
+Jolivette 28 Day Pack,LIVING,9,200,0.045,4.5
+Doxycycline Monohydrate 50 Mg Oral Tablet,LIVING,13,200,0.065,6.5
+Oxycodone Hydrochloride 15 Mg [Oxycontin],LIVING,2,200,0.01,1.0
+Yaz 28 Day Pack,LIVING,4,200,0.02,2.0
+Naproxen Sodium 220 Mg [Aleve],LIVING,8,200,0.04,4.0
+12 Hr Cefaclor 500 Mg Extended Release Oral Tablet,LIVING,2,200,0.01,1.0
+Alteplase,LIVING,5,200,0.025,2.5
+Mestranol / Norethynodrel [Enovid],LIVING,20,200,0.1,10.0
+Prednisone 5 Mg Oral Tablet,LIVING,7,200,0.035,3.5
+Epinephrine,LIVING,7,200,0.035,3.5
+Amiodarone,LIVING,7,200,0.035,3.5
+Atropine,LIVING,7,200,0.035,3.5
+Amoxicillin 500 Mg Oral Tablet,LIVING,10,200,0.05,5.0
+Cetirizine Hydrochloride 5 Mg Oral Tablet,LIVING,1,200,0.005,0.5
+Loratadine 5 Mg Chewable Tablet,LIVING,4,200,0.02,2.0
+Levora 0.15/30 28 Day Pack,LIVING,3,200,0.015,1.5
+Xulane 150/35 Mcg/Day Weekly Transdermal System,LIVING,1,200,0.005,0.5
+Astemizole 10 Mg Oral Tablet,LIVING,1,200,0.005,0.5
+Alendronic Acid 10 Mg [Fosamax],LIVING,8,200,0.04,4.0
+Nitrofurantoin Macrocrystals 50 Mg [Macrodantin],LIVING,5,200,0.025,2.5
+Cisplatin 50 Mg Injection,LIVING,0,200,0.0,0.0
+Paclitaxel 100 Mg Injection,LIVING,0,200,0.0,0.0
+Cefaclor 250 Mg Oral Capsule,LIVING,12,200,0.06,6.0
+Errin 28 Day Pack,LIVING,4,200,0.02,2.0
+Galantamine 4 Mg [Razadyne],LIVING,3,200,0.015,1.5
+Memantine Hydrochloride 2 Mg/Ml [Namenda],LIVING,2,200,0.01,1.0
+Atomoxetine 100 Mg [Strattera],LIVING,2,200,0.01,1.0
+Tacrine 10 Mg Oral Capsule,LIVING,0,200,0.0,0.0
+Etoposide 100 Mg Injection,LIVING,0,200,0.0,0.0
+Levonorgestrel 0.00354 Mg/Hr [Norplant],LIVING,4,200,0.02,2.0
+Mirena 52 Mg Intrauterine System,LIVING,5,200,0.025,2.5
+Hydrocortisone 10 Mg/Ml Topical Cream,LIVING,4,200,0.02,2.0
+Naproxen Sodium 550 Mg [Anaprox],LIVING,2,200,0.01,1.0
+Methotrexate 10 Mg [Trexall],LIVING,2,200,0.01,1.0
+Nuvaring 0.12/0.015 Mg Per 24hr 21 Day Vaginal Ring,LIVING,1,200,0.005,0.5
+Trinessa 28 Day Pack,LIVING,5,200,0.025,2.5
+Chlorpheniramine 2 Mg Chewable Tablet,LIVING,3,200,0.015,1.5
+Leucovorin 100 Mg Injection,LIVING,2,200,0.01,1.0
+Oxaliplatin 5 Mg/Ml [Eloxatin],LIVING,2,200,0.01,1.0
+Camila 28 Day Pack,LIVING,7,200,0.035,3.5
+Allopurinol 100 Mg [Zyloprim],LIVING,0,200,0.0,0.0
+Donepezil Hydrochloride 10 Mg / Memantine Hydrochloride 28 Mg [Namzaric],LIVING,1,200,0.005,0.5
+Prednisone 2.5 Mg [Deltasone],LIVING,0,200,0.0,0.0
+0.65 Ml Depo Subq Provera 160 Mg/Ml Prefilled Syringe,LIVING,1,200,0.005,0.5
+Fexofenadine Hydrochloride 60 Mg Oral Tablet,LIVING,1,200,0.005,0.5
+Nexplanon 68 Mg Drug Implant,LIVING,1,200,0.005,0.5
+Colchicine 0.6 Mg [Colcrys],LIVING,0,200,0.0,0.0
+Loratadine 10 Mg Oral Tablet,LIVING,1,200,0.005,0.5
+Seasonique 91 Day Pack,LIVING,1,200,0.005,0.5
